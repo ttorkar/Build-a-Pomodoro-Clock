@@ -1,0 +1,26 @@
+body{
+  background-image:url("http://www.planwallpaper.com/static/images/Alien_Ink_2560X1600_Abstract_Background_1.jpg");
+  color:white; 
+}
+h1{
+  margin:10px;
+}
+h2{
+  display:inline;
+
+}
+
+#start{
+  margin:15px;
+}
+#timeBody{
+  
+  border:white solid;
+  margin-top: 20px;
+  background-color:black;
+  border-radius: 5px;
+  border-width:5px;
+  margin-left:300px;
+  margin-right: 300px;
+  padding:2px;
+  }
